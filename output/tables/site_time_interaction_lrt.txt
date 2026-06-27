@@ -1,0 +1,4 @@
+Likelihood ratio test for cancer site by treatment timing interaction
+Chi-square: 77.895
+Degrees of freedom: 39
+P value: 0.000213753
